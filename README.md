@@ -25,7 +25,6 @@ Automation Test Engineer
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
-  
                     </a>
                       <a href="https://www.linkedin.com/in/srikanth-selvaraj-090770248/" target="_blank" rel="noreferrer">
                     <picture>
