@@ -7,7 +7,7 @@ Automation Test Engineer
 *   🌍  I'm based in Chennai, India
 *   🖥️  See my portfolio at [Srikanth's Test Talk](http://srikanth24ks7.wordpress.com/)
 *   ✉️  You can contact me at [srikanth.24ks@gmail.com](mailto:srikanth.24ks@gmail.com)
-*   🧠  I'm learning Cypress with javascript
+*   🧠  I'm learning Playwright with javascript
 *   🤝  I'm open to collaborating on New projects
   
   ### Skills 
